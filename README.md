@@ -3,7 +3,7 @@ I'm currently a UVic student on my final semester of a computer science undergra
 
 ##### Things I like
 - Functional Programming
-- APIs with specs (openapi, gRPC, graphql)
+- Web APIs with specs (openapi, gRPC, graphql)
 - Postgres
 - Property testing and fuzzing
 
